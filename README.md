@@ -1,6 +1,8 @@
 # SimpleShell
 This shell is a simplified version of /bin/sh (without pipes, forwarding, ect.).
-<br/><img src="shell.png" width="500px" /><br/>
+<br/><br/>
+<img src="shell.png" width="500px" />
+<br/>
 ## How to use
 - Run Makefile:
 <pre>make</pre>
